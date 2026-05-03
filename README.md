@@ -37,3 +37,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 cheking connectivity on ingobyi
 just checking it all
+
+
+is it working ??
